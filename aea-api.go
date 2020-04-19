@@ -1,4 +1,4 @@
-package aea-api
+package aea_api
 
 import (
   "fmt"
